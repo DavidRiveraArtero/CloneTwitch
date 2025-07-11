@@ -1,0 +1,36 @@
+.headerTwitch{
+    display: flex;
+    background-color: #18181B;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px 5px 20px;
+    height: 50px;
+}
+
+
+
+.headerSearch::placeholder{
+    color: currentColor;
+}
+
+.buttonHeader{
+    padding: 5px;
+    border-radius: 4px;
+}
+.buttonHeader:hover{
+    cursor: pointer;
+}
+
+.logoName{
+    font-family: Roobert;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 23px;
+    line-height: 15.6px;
+    letter-spacing: 0%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    margin-right: 10px;
+
+}
+
